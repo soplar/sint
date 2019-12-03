@@ -31,12 +31,9 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - text: gedicht 1
-    url: /gedicht1.html
-  - text: gedicht 2
-    url: /gedicht2.html
-  - text: gedicht 3
-    url: /gedicht3.html
+  - gedicht1.html
+  - gedicht2.html
+  - gedicht3.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
