@@ -31,8 +31,9 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - rumerica/index.md
-  - about.md
+  - gedicht1.html
+  - gedicht2.html
+  - gedicht3.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
